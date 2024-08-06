@@ -3,7 +3,9 @@
 ## in vscode download the following extensions 
 
 **Remote - SSH**
+
 **Remote - SSH: Editing Configuration Files**
+
 **Remote Explorer**
 
 Once the extensions are downloaded, in order to access ssh you must first make sure that both devices being used for ssh are on the same WIFI, for example, a laptop and a Jetson Orin Nano, if not remote access will not work. 
